@@ -1,0 +1,13 @@
+com\crm\qa\base\Testbase.class
+com\crm\qa\utility\Timeouts.class
+com\crm\qa\utility\WebEventListener.class
+com\qa\ExtentReportListener\ExtentReportListener.class
+Callbyreference.class
+com\crm\qa\utility\TestngscreenshotListener.class
+com\crm\qa\pages\Registrationpage.class
+com\crm\qa\pages\Contactspage.class
+Patternprint.class
+com\crm\qa\pages\Homepage.class
+com\crm\qa\pages\Dealspage.class
+Callbyvalue.class
+com\crm\qa\pages\Loginpage.class
